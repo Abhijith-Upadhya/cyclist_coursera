@@ -1,4 +1,4 @@
-**cyclist_coursera**
+**CYCLISTIC**
 
 This case study is a capstone project for the Google Data Analytics Certification. 
 Cyclistic, a fictional bike-share company, desires to increase the number of annual memberships, which are more profitable than casual users (those who purchase single-rides or full-day passes).
