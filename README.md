@@ -1,6 +1,6 @@
-**# cyclist_coursera**
-This case study is a capstone project for the Google Data Analytics Certification. 
+**cyclist_coursera**
 
+This case study is a capstone project for the Google Data Analytics Certification. 
 Cyclistic, a fictional bike-share company, desires to increase the number of annual memberships, which are more profitable than casual users (those who purchase single-rides or full-day passes).
 The head of marketing wants to find opportunities to convert casual riders into annual members. The marketing team has been tasked with reviewing data on bicycle rides from the previous year in order to accomplish this goal.
 As a member of the marketing team, my specific assignment is review the bike-sharing data available and find out how annual members and casual riders use Cyclistic bikes differently.
