@@ -6,6 +6,7 @@ The head of marketing wants to find opportunities to convert casual riders into 
 As a member of the marketing team, my specific assignment is review the bike-sharing data available and find out how annual members and casual riders use Cyclistic bikes differently.
 
 **Introduction**
+
 Welcome to the Cyclistic bike-share analysis case study! In this case study, you will perform many real-world tasks of a junior data
 analyst. You will work for a fictional company, Cyclistic, and meet different characters and team members. In order to answer the
 key business questions, you will follow the steps of the data analysis process: ask, prepare, process, analyze, share, and act.
@@ -15,6 +16,7 @@ study anytime. Then, when you begin your job hunt, your case study will be a tan
 skills to potential employers.
 
 **Scenario**
+
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of
 marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your
 team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will
@@ -22,6 +24,7 @@ design a new marketing strategy to convert casual riders into annual members. Bu
 recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
 **Characters and teams**
+
 ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart
 by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities
 and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use
@@ -36,6 +39,7 @@ Cyclistic’s mission and business goals — as well as how you, as a junior dat
 recommended marketing program.
 
 **About the company**
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are
 geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to
 any other station in the system anytime.
@@ -53,6 +57,7 @@ that, however, the marketing analyst team needs to better understand how annual 
 riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
-Data Source
+**Data Source**
+
 Public bikesharing data has been made available by Divvy under this license.
 https://divvy-tripdata.s3.amazonaws.com/index.html
